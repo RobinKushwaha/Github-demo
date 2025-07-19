@@ -1,4 +1,4 @@
 # Github-demo
-This is my first Repo.
+This is my first Repository.
 <br>
-Auther : RobinKushwaha
+Author : RobinKushwaha
